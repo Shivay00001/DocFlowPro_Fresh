@@ -1,0 +1,13 @@
+customtkinter
+pillow
+pytesseract
+pandas
+scikit-learn
+openpyxl
+fpdf
+reportlab
+tkcalendar
+sqlalchemy
+bcrypt
+matplotlib
+pypdf
